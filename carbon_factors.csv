@@ -1,0 +1,5 @@
+ifc_type,material,unit,carbon_factor (kgCO2e/unit)
+IfcWall,concrete,m3,100
+IfcSlab,concrete,m3,120
+IfcBeam,steel,kg,1.8
+IfcColumn,steel,kg,2.1
